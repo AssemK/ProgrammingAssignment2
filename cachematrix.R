@@ -1,4 +1,4 @@
-## Functions to cache the matrix inverse
+## Functions to cache the matrix inverse. This is very useful when working with big data sets. 
 
 ## makeCacheMatrix() creates a special matrix object that can cache its inverse. 
 ## It sets and gets values of the matrix and its inverse.
